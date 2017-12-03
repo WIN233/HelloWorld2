@@ -5,3 +5,4 @@ master分支下修改
 teset
 测试gti stashasdfasd
 hhhhhhhhhhh
+同时远程推送
